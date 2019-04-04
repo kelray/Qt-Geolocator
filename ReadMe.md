@@ -1,6 +1,10 @@
 This is a simple demo desktop application in Qt to geolocate using a USB GPS and display your current location on the map. 
 The application uses QMap library for map graphics: https://github.com/bbglab/qmap
 
+A screenshot of the application:
+
+<img width="361" alt="location_GPS map viewer_SFU surrey" src="https://user-images.githubusercontent.com/8460504/55594893-4620a980-56f6-11e9-8c9e-4c67623d20a2.png">
+
 This application had been test with two GPS modules:
 - VK-172 USB GPS.
 ![vk172](https://user-images.githubusercontent.com/8460504/55594488-aa426e00-56f4-11e9-9571-0460fe966326.png)
