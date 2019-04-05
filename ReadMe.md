@@ -25,4 +25,5 @@ Doesn't look very glamorous but works like charm:
 
 ![Neo6_mcp2221_GPS module_2](https://user-images.githubusercontent.com/8460504/55595378-56398880-56f8-11e9-90ea-991c34a62acd.jpg)
 
-
+For details on the MCP2221A USB to UART bridge wiring and circuitry please check this blog post: 
+http://elrayescampaign.blogspot.com/2016/06/mcp2221-tutorial-easy-usb-interfacing.html
