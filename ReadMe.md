@@ -3,7 +3,7 @@ The application uses QMap library for map graphics: https://github.com/bbglab/qm
 
 A screenshot of the application:
 
-<img width="361" alt="location_GPS map viewer_SFU surrey" src="https://user-images.githubusercontent.com/8460504/55594893-4620a980-56f6-11e9-8c9e-4c67623d20a2.png">
+<img align="center" width="361" alt="location_GPS map viewer_SFU surrey" src="https://user-images.githubusercontent.com/8460504/55594893-4620a980-56f6-11e9-8c9e-4c67623d20a2.png">
 
 This application has been tested with two different GPS modules:
 - VK-172 USB GPS.
@@ -12,11 +12,11 @@ This application has been tested with two different GPS modules:
 - uBlox Neo-6 serial GPS module with MCP2221A USB-to-UART bridge:
 
 
-MCP2221A USB-to-UART bridge IC:
+**MCP2221A USB-to-UART bridge IC:**
 
 ![mcp2221](https://user-images.githubusercontent.com/8460504/55594481-a4e52380-56f4-11e9-8e93-cbfb0e0d4ef3.png)
 
-uBlox Neo-6 serial GPS module:
+**uBlox Neo-6 serial GPS module:**
 
 ![Neo-6M-Pakistan-600x600](https://user-images.githubusercontent.com/8460504/55594482-a4e52380-56f4-11e9-803e-abd2556f7372.png)
 
