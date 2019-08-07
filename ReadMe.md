@@ -1,9 +1,9 @@
 This is a simple demo desktop application in Qt to acquire your current location from a USB GPS module and display it on the map. 
 The application uses QMap library for map graphics: https://github.com/bbglab/qmap
 
-A screenshot of the application:
+**A screenshot of the application:**
 
-<img align="center" width="361" alt="location_GPS map viewer_SFU surrey" src="https://user-images.githubusercontent.com/8460504/55594893-4620a980-56f6-11e9-8c9e-4c67623d20a2.png">
+<p align="center"> <img width="361" alt="location_GPS map viewer_SFU surrey" src="https://user-images.githubusercontent.com/8460504/55594893-4620a980-56f6-11e9-8c9e-4c67623d20a2.png"> </p>
 
 This application has been tested with two different GPS modules:
 - VK-172 USB GPS.
