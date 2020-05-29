@@ -1,5 +1,5 @@
 This is a simple demo desktop application in Qt to acquire your current location from a USB GPS module and display it on the map. 
-The application uses QMap library for map graphics: https://github.com/bbglab/qmap
+The application uses QMapControl library for map graphics: https://github.com/kaiwinter/QMapControl
 
 **A screenshot of the application:**
 
